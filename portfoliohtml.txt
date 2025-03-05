@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head> <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" />
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+ </head>
+  <body>
+      <div class="container-fluid cont">
+          <div class="row">
+              <div class="col-12">
+                  <div class="intro d-flex flex-row">
+                      <div>
+                          <h1 style="font-family:script;font-size:25px;">SAKTHEESWAR A</h1>
+                          <p style="">FULL STACK DEVELOPER</p>
+                          <p style="color:grey;">email:a.saktheeswar@gmail.com</p>
+                          <p style="color:grey;">ph no:6379726719</p>
+                      </div>
+                      <div class="text-right">
+                          <img src="https://official.yousing.com.tw/wp-content/uploads/2020/09/resume-man-768x722.png" class="img"/>
+                      </div>
+                      
+                  </div>
+              </div>
+              <div class="col-12 cont pt-1">
+                  <p style="font-style:italic;color:green;"> summary</p>
+                  <p style="color:grey;font-style:italic;">Saktheeswar is a dedicated <span class="text-warning">Full Stack Developer </span> with a passion for creating dynamic and user-friendly web applications. With a strong foundation in both front-end and back-end technologies, Saktheeswar excels in delivering seamless and efficient solutions. Always eager to learn and adapt to new challenges, Saktheeswar is committed to staying up-to-date with the latest industry trends and best practices.</p>
+                  <hr >
+              </div>
+              <div class="col-12 d-flex flex-row ml-2" style="border-style:solid;border-width:1px;border-color:grey;">
+                  <div >
+                      
+                      <ul style="color:grey;font-size:15px;">
+                          <p>Qualification</p>
+                          <li>Bachelor of Engineering in Computer Science from Anna University</li>
+                          <li>Proficient in front-end technologies including HTML, CSS, JavaScript, and React</li>
+                          <li>Experienced in back-end technologies such as Node.js, Express, and MongoDB</li>
+                          <li>Strong understanding of RESTful APIs and web services</li>
+                          <li>Skilled in agile methodologies and project management tools like JIRA</li>
+                          <li>Strong communication and teamwork skills</li>
+                      </ul>
+                  </div>
+                  <div style="color:grey;font-size:15px;">
+                      <p>Education</p>
+                      <ul>
+                          
+                          <li>Bachelor of Engineering in Computer Science</li>
+                          <li>Anna University, Chennai</li>
+                          <li>Graduated: 2023</li>
+                          <li>GPA: 8.5/10</li>
+                          <li>Relevant Coursework: Data Structures, Algorithms, Web Development, Database Management Systems, Operating Systems, and Software Engineering.</li>
+                          <li>Higher Secondary Education</li>
+                          <li>ABC Higher Secondary School, Chennai</li>
+                          <li>Graduated: 2019</li>
+                          <li>GPA: 9.2/10</li>
+                          <li>Achievements: Top 10% of the class, Captain of the Coding Club.</li>
+                      </ul>
+                  </div>
+                  <hr>
+                  <div>
+                      
+                  </div>
+              </div>
+              
+              <div class="col-12">
+                  <p>Declaration form</p>
+              </div>
+              
+              
+          </div>
+      </div>
+  </body>
+</html>
